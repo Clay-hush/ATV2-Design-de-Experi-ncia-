@@ -99,6 +99,7 @@ A solução busca unir localização + praticidade + informação, tornando o pr
 🎨 Protótipo no Figma
 
 O protótipo e as telas desenvolvidas podem ser acessados pelo link abaixo:
+https://photos.app.goo.gl/g1qVEyWVuJcWjRzu6
 
 👉 "Acessar protótipo do Prato Perto no Figma" (https://www.figma.com/make/QirPGqJgUE5krgUxOHwY9a/Fluxo-e-Paleta-de-Cores?p=f&t=mJXvGvG8DycA5d3J-0&fullscreen=1)
 
